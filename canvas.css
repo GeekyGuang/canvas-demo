@@ -1,0 +1,25 @@
+body {
+    margin:0;
+    overflow: hidden;
+  }
+
+.icon {
+  border: 1px green solid;
+  width: 1em; height: 1em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+
+ }
+
+.actions {
+  border: 1px red solid;
+  position:fixed;
+  top: 0;
+  left: 0;
+}
+
+.actions svg {
+  width: 1.5em;
+  height: 1.5em;
+}
